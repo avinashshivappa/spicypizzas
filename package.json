@@ -1,5 +1,6 @@
-{ "homepage": "https://avinashshivappa.github.io",
-  "name": "spicypizza",
+{ 
+  "homepage": "https://avinashshivappa.github.io",
+  "name": "spicypizzas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
